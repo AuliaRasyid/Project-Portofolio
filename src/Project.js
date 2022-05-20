@@ -2,7 +2,7 @@ import React from "react";
 import "./Project.css";
 import project1 from "./img/Project1.png";
 import project2 from "./img/Project2.png";
-import project3 from "./img/Bg3.jpg";
+import project3 from "./img/Project3.png";
 
 function Project() {
   return (
@@ -22,7 +22,7 @@ function Project() {
                 <div className="mask__effect"></div>
               </div>
               <div className="project__meta absolute">
-                <h5 className="project__text">Project Kampus</h5>
+                <h5 className="project__text">Project Kampus-dokes</h5>
                 <h4 className="project__text">Web</h4>
                 <a herf="#Contact" className="project__btn">
                   View Detail
@@ -56,7 +56,7 @@ function Project() {
                 <div className="mask__effect"></div>
               </div>
               <div className="project__meta absolute">
-                <h5 className="project__text">Project Kampus</h5>
+                <h5 className="project__text">Portofolio</h5>
                 <h4 className="project__text">Web</h4>
                 <a herf="#" className="project__btn">
                   View Detail
