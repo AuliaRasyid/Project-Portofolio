@@ -39,10 +39,10 @@ function Project() {
                 <div className="mask__effect"></div>
               </div>
               <div className="project__meta absolute">
-                <h5 className="project__text">Project Kampus</h5>
+                <h5 className="project__text">Project Kampus KKN</h5>
                 <h4 className="project__text">Web</h4>
                 <a herf="https://waibaodesa.id/" className="project__btn">
-                  View Detailia
+                  View Detail
                 </a>
               </div>
             </div>
