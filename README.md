@@ -1,7 +1,11 @@
+### Preview 
+<img width="1437" alt="Screen Shot 2022-05-23 at 09 49 10" src="https://user-images.githubusercontent.com/48952710/169734169-bf3756eb-bebf-4f30-b84b-2d856ddf2a41.png">
+<img width="1437" alt="Screen Shot 2022-05-23 at 09 49 18" src="https://user-images.githubusercontent.com/48952710/169734203-0fbbebfe-f7cb-4c02-9ed6-c20f22912fa1.png">
+<img width="1437" alt="Screen Shot 2022-05-23 at 09 49 25" src="https://user-images.githubusercontent.com/48952710/169734213-dd60aca0-481f-4be6-b651-b3430932ada6.png">
+<img width="1437" alt="Screen Shot 2022-05-23 at 09 49 34" src="https://user-images.githubusercontent.com/48952710/169734225-54407d39-f07b-4e16-b85c-5f52c9ca9d31.png">
+
 # Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
